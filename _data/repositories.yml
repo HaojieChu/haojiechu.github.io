@@ -3,6 +3,6 @@
 github_repos:
   - HaojieChu/Machine-Learning-based-Stock-Price-Prediction-and-Portfolio-Optimization
   - HaojieChu/Electrical_Fault_Detection_and_Classification
-#  - HaojieChu/
-#  - HaojieChu/
-#  - HaojieChu/
+  - HaojieChu/Air_Quality_Index_Predicton_WebUI 
+  - HaojieChu/Analyzing_Soccer_Database_SQL_WebUI
+  - HaojieChu/FSM_Chatbot_for_Stock_Information_Queries
