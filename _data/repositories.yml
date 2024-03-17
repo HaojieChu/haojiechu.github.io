@@ -1,12 +1,8 @@
-github_users:
-  - torvalds
-  - alshedivat
+
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - HaojieChu/Machine-Learning-based-Stock-Price-Prediction-and-Portfolio-Optimization
+  - HaojieChu/Electrical_Fault_Detection_and_Classification
+#  - HaojieChu/
+#  - HaojieChu/
+#  - HaojieChu/
