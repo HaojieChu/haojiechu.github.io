@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://haojiechu.github.io/sitemap.xml
+Sitemap: https://hjchu.github.io/sitemap.xml
