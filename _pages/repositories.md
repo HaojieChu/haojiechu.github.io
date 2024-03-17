@@ -4,7 +4,7 @@ permalink: /repositories/
 title: repositories
 description: continuously nurturing my passion for the fusion of data and business through dedicated learning and coding.
 nav: true
-nav_order: 4
+nav_order: 3
 ---
 
 
