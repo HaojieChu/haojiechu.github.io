@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 <p>I obtained my Bachelor's degree in Economic Statistics from Zhengzhou University and my Master's degree in Data Science from University Malaya. </p>
 <br>
-<p>My interests are centered on the development of advanced machine learning techniques to enhance decision-making processes, particularly within the business sector. I am dedicated to continuous learning and ensuring I remain conversant with the latest advancements in data science, including Large Language Models (LLMs).</p> 
+<p>My interests are centered on the development of advanced machine learning techniques to enhance decision-making processes in multiple sectors (such as business, healthcare). I am dedicated to continuous learning and ensuring I remain conversant with the latest advancements in data science, including Large Language Models (LLMs) and Explainable AI (XAI).</p> 
 <br>
 <br>
 <b>I am actively looking for research opportunities for 2024 Summer.</b>

@@ -19,9 +19,9 @@
       "courses": [
         "Data Mining", 
         "Data Analytics", 
-        "Machine Learning", 
-        "Databases", 
-        "Big Data Analytics", 
+        "Machine Learning for Data Science", 
+        "Big Data Analytics and Applications",
+        "Programming for Data Science", 
         "Network and Security"
       ]
     },
@@ -33,10 +33,25 @@
         "endDate": "2021-08",
         "score": "GPA: 3.62/4.0 Rank: 6/65",
         "courses": [
+          "Finance",
+          "Linear Algebra",
+          "Calculus",
+          "Microeconomics",
+          "Macroeconomics",
+          "Probability Theory and Mathematical Statistics",
           "Multivariate Statistical Analysis", 
           "Nonparametric Statistics", 
           "Economic Statistics", 
+          "Financial Statistical Analysis",
+          "Market Investigation and Analysis",
+          "Investment Statistics",
+          "Sampling Techniques",
+          "Forecasting and Decision Making",
+          "Data Mining",
+          "Methods and Applications of Big Data Analysis",
+          "International Economics",
           "Time Series Analysis"
+
         ]
       }
   ],
