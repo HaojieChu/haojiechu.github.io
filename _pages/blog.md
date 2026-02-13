@@ -1,10 +1,10 @@
 ---
 layout: default
 permalink: /blog/
-title: blog
+title: yuco
 nav: true
 nav_order: 1
-date: 2025-07-03
+date: 2055-07-03
 ---
 
 <div class="post">
@@ -16,7 +16,7 @@ date: 2025-07-03
       &nbsp;·&nbsp;
       <i class="fa-solid fa-user"></i> yuco
       &nbsp;·&nbsp;
-      <i class="fa-regular fa-calendar"></i> 2025-07-03
+      <i class="fa-regular fa-calendar"></i> 2055-07-03
     </p>
   </header>
 
@@ -25,7 +25,6 @@ date: 2025-07-03
       <h3 class="h5">Contents <span aria-hidden="true">📖</span></h3>
       <ul class="list-unstyled">
         <li><a href="#story">故事从这里开始也从这里结束？</a></li>
-        <li><a href="#afterword">余韵</a></li>
       </ul>
     </nav>
 
@@ -67,7 +66,7 @@ date: 2025-07-03
         你我彼此靠近。<br>
         <br>
         我还想带你看北欧的极光 🌌，<br>
-        还想带你看伦敦的chelsea，<br>
+        还想带你看伦敦的chelsea 💙，<br>
         还想带你去小韩do脸，<br>
         还想还想，好多好多，<br>
         我想听你呼吸入睡，<br>
@@ -83,14 +82,5 @@ date: 2025-07-03
       </p>
     </section>
 
-    <hr>
-
-    <section id="afterword">
-      <h2>余韵 <span aria-hidden="true">🕊️</span></h2>
-      <p>
-        若要给这一段故事取一个注脚，我会写下：
-        <strong>温柔、勇敢、与不散的期许</strong>。
-      </p>
-    </section>
   </div>
 </div>
