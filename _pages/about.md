@@ -22,5 +22,5 @@ social: true  # includes social icons at the bottom of the page
 <p>My interests are centered on the development of advanced machine learning techniques to enhance decision-making processes in multiple sectors (such as business, healthcare). I am dedicated to continuous learning and ensuring I remain conversant with the latest advancements in data science, including Large Language Models (LLMs) and Explainable AI (XAI).</p> 
 <br>
 <br>
-<b>I am actively looking for research opportunities for 2024 Summer.</b>
+<b>I am actively looking for research opportunities for 2024 Summer. (not anymore...)</b>
 
